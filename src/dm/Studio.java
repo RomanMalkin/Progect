@@ -25,11 +25,11 @@ public class Studio {
 
     static Studio st = new Studio();
 
-
-
     public static void main(String[] args) {
         System.out.println(st.getV());
     }
+
+
 
     }
 
